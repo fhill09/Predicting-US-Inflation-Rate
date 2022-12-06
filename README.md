@@ -2,8 +2,8 @@
 Final Project 538 - Analytics for Financial Engineering &amp; Econometrics
 #
 Students:
-Bloti B. Teh:bteh@gmu.edu 
-Faith Hill: fill2@gmu.edu
+Bloti B. Teh:bteh@gmu.edu; 
+Faith Hill: fill2@gmu.edu; 
 Huy Nguyen: hnguy40@gmu.edu
 #
 We demonstrated how to predict US inflation using three different models: Linear Regression model, Long-memory Process, ARIMA seasonal models. 
