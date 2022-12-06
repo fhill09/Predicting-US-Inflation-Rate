@@ -1,7 +1,7 @@
 # Predicting-US-Inflation-Rate
 Final Project 538 - Analytics for Financial Engineering &amp; Econometrics
 #
-#Students:
+Students:
 Bloti B. Teh:bteh@gmu.edu 
 Faith Hill: fill2@gmu.edu
 Huy Nguyen: hnguy40@gmu.edu
