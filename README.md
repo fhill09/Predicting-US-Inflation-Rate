@@ -1,5 +1,5 @@
 # Predicting-US-Inflation-Rate
-Final Report Project 538 - Analytics for Financial Engineering &amp; Econometrics
+Final Project Report 538 - Analytics for Financial Engineering &amp; Econometrics
 #
 Students:
 Bloti B. Teh:bteh@gmu.edu; 
